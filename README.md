@@ -3,4 +3,4 @@ This is a converter made by JavaScript, which is able to find out your age in da
 
 #Used Live Share.
 
-#To run, use port 5500 in your browser.
+#Used port 5500.
